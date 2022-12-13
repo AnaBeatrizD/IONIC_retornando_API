@@ -1,0 +1,49 @@
+/* Selects all elements */
+* {
+  background-color: black;
+  color: white;
+}
+
+#container {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+#container strong {
+  font-size: 20px;
+  line-height: 26px;
+}
+
+ion-title {
+  color: white;
+  padding: 20px;
+  margin: 0%; 
+  padding-left: 10px;
+  background-color: rgb(0, 0, 0);
+}
+#container a {
+  text-decoration: none;
+  text-align: center;
+  text-decoration-color: black;
+}
+
+
+.titulo {
+margin-top: 30px;
+font-size: 130%;
+font-weight: bold;
+}
+
+ion-content{
+text-align: center;
+}
+.descricao{
+  text-align: justify;
+}
+.sub_titulo{
+  margin-bottom: 30px;
+  margin-top: 30px ;
+
+}
